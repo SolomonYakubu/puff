@@ -270,7 +270,7 @@ html {
 body {
   min-height: 100%;
   color: #333;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -312,7 +312,7 @@ html.w-mod-touch * {
 }
 
 .w-button {
-  color:#5C548C;
+  color:#5A4D85;
   line-height: inherit;
   cursor: pointer;
   background-color: #3898ec;
@@ -395,7 +395,7 @@ html[data-w-dynpage] [data-w-cloak] {
   opacity: 1 !important;
   width: auto !important;
   height: auto !important;
-  background-color:#5C548C !important;
+  background-color:#5A4D85 !important;
   border-radius: 3px !important;
   margin: 0 !important;
   padding: 6px 8px 6px 6px !important;
@@ -571,7 +571,7 @@ label {
   height: 38px;
   color: #333;
   vertical-align: middle;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border: 1px solid #ccc;
   margin-bottom: 10px;
   padding: 8px 12px;
@@ -1118,7 +1118,7 @@ textarea.w-select {
   width: 28px;
   height: 20px;
   text-align: center;
-  background:#5C548C;
+  background:#5A4D85;
   border: 1px solid #758696;
   border-radius: 3px;
   display: inline-block;
@@ -1193,7 +1193,7 @@ textarea.w-select {
 
 .w-widget-twitter-count-shim:not(.w--vertical):after {
   border-width: 4px;
-  border-color: rgba(255, 255, 255, 0)#5C548C rgba(255, 255, 255, 0)
+  border-color: rgba(255, 255, 255, 0)#5A4D85 rgba(255, 255, 255, 0)
     rgba(255, 255, 255, 0);
   margin-top: -4px;
   margin-left: -8px;
@@ -1231,7 +1231,7 @@ textarea.w-select {
 
 .w-widget-twitter-count-shim.w--vertical:after {
   border-width: 4px;
-  border-color:#5C548C rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
+  border-color:#5A4D85 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
   margin-left: -4px;
 }
 
@@ -1246,7 +1246,7 @@ textarea.w-select {
 
 .w-background-video {
   height: 500px;
-  color:#5C548C;
+  color:#5A4D85;
   position: relative;
   overflow: hidden;
 }
@@ -1346,7 +1346,7 @@ textarea.w-select {
 }
 
 .w-slider-nav-invert {
-  color:#5C548C;
+  color:#5A4D85;
 }
 
 .w-slider-nav-invert > div {
@@ -1369,12 +1369,12 @@ textarea.w-select {
 }
 
 .w-slider-dot.w-active {
-  background-color:#5C548C;
+  background-color:#5A4D85;
 }
 
 .w-slider-dot:focus {
   outline: none;
-  box-shadow: 0 0 0 2px#5C548C;
+  box-shadow: 0 0 0 2px#5A4D85;
 }
 
 .w-slider-dot:focus.w-active {
@@ -1385,7 +1385,7 @@ textarea.w-select {
 .w-slider-arrow-right {
   width: 80px;
   cursor: pointer;
-  color:#5C548C;
+  color:#5A4D85;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-user-select: none;
@@ -1537,7 +1537,7 @@ textarea.w-select {
   word-break: normal;
   word-spacing: normal;
   word-wrap: normal;
-  color:#5C548C;
+  color:#5A4D85;
   text-align: center;
   z-index: 2000;
   opacity: 0;
@@ -1745,7 +1745,7 @@ textarea.w-select {
 .w-lightbox-spinner:after {
   content: "";
   border: 3px solid rgba(0, 0, 0, 0);
-  border-bottom-color:#5C548C;
+  border-bottom-color:#5A4D85;
   border-radius: 50%;
   position: absolute;
   top: -4px;
@@ -2069,7 +2069,7 @@ textarea.w-select {
 }
 
 .w-nav-button.w--open {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #c8c8c8;
 }
 
@@ -2221,7 +2221,7 @@ textarea.w-select {
 
 body {
   color: #fff;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   flex-direction: column;
   justify-content: flex-start;
   align-items: stretch;
@@ -2346,7 +2346,7 @@ figure {
 
 figcaption {
   text-align: center;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   margin-top: 0;
   padding: 14px 20px;
   font-size: 15px;
@@ -2426,7 +2426,7 @@ figcaption {
 
 .navbar-bg {
   z-index: -10;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   font-family: Super Foods, sans-serif;
   position: absolute;
   top: 0%;
@@ -2450,12 +2450,12 @@ figcaption {
 }
 
 .nav-button:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
 .section-navbar {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   margin-top: 73px;
 }
 
@@ -2516,7 +2516,7 @@ figcaption {
 }
 
 .button {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
   border-radius: 50px;
   padding: 18px 40px;
@@ -2528,7 +2528,7 @@ figcaption {
 }
 
 .button:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -2541,7 +2541,7 @@ figcaption {
 }
 
 .button.outline:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
@@ -2555,12 +2555,12 @@ figcaption {
 
 .button.white {
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   transition: color 0.2s, background-color 0.2s;
 }
 
 .button.white:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -2688,7 +2688,7 @@ figcaption {
 }
 
 .section {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -2712,7 +2712,7 @@ figcaption {
 }
 
 .heading.white {
-  color:#5C548C;
+  color:#5A4D85;
 }
 
 .paragraph {
@@ -2722,7 +2722,7 @@ figcaption {
 }
 
 .paragraph.white {
-  color:#5C548C;
+  color:#5A4D85;
 }
 
 .grid-feature {
@@ -2743,7 +2743,7 @@ figcaption {
 }
 
 .icon-feature-bg {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -2816,7 +2816,7 @@ figcaption {
   width: 100%;
   height: 100%;
   transform-style: preserve-3d;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   margin-top: -23px;
   margin-bottom: 57px;
@@ -2864,7 +2864,7 @@ figcaption {
 }
 
 .icon-sequence-bg {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -2898,7 +2898,7 @@ figcaption {
 }
 
 .number-sequence {
-  color:#5C548C;
+  color:#5A4D85;
   font-size: 16px;
   font-weight: 500;
   line-height: 100%;
@@ -3017,7 +3017,7 @@ figcaption {
 .check {
   width: 36px;
   height: 36px;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 50%;
   flex-direction: column;
   flex: none;
@@ -3228,7 +3228,7 @@ figcaption {
 
 .text-field-white {
   height: 56px;
-  color:#5C548C;
+  color:#5A4D85;
   background-color: rgba(255, 255, 255, 0.1);
   border: 1px solid rgba(255, 255, 255, 0);
   border-radius: 50px;
@@ -3253,7 +3253,7 @@ figcaption {
 
 .submit-button-white {
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 50px;
   padding: 18px 40px;
   font-size: 18px;
@@ -3263,7 +3263,7 @@ figcaption {
 }
 
 .submit-button-white:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -3468,7 +3468,7 @@ figcaption {
 }
 
 .accordion-item {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 12px;
 }
 
@@ -3523,7 +3523,7 @@ figcaption {
 
 .plan {
   text-align: center;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: flex-start;
@@ -3621,7 +3621,7 @@ figcaption {
 }
 
 .button-small {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
   border-radius: 50px;
   padding: 12px 22px;
@@ -3632,7 +3632,7 @@ figcaption {
 }
 
 .button-small:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -3645,7 +3645,7 @@ figcaption {
 }
 
 .button-small.outline:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
@@ -3659,12 +3659,12 @@ figcaption {
 
 .button-small.white {
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   transition: color 0.2s, background-color 0.2s;
 }
 
 .button-small.white:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -3730,7 +3730,7 @@ figcaption {
 }
 
 .company-info {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -3793,7 +3793,7 @@ figcaption {
 }
 
 .icon-contact-bg {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -3822,7 +3822,7 @@ figcaption {
 .contact {
   z-index: 10;
   text-align: center;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   align-items: center;
@@ -3854,7 +3854,7 @@ figcaption {
 .text-field {
   height: 56px;
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border: 1px solid #efe2d7;
   border-radius: 50px;
   margin-bottom: 0;
@@ -3888,7 +3888,7 @@ figcaption {
 }
 
 .submit-button {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
   border-radius: 50px;
   padding: 18px 40px;
@@ -3899,7 +3899,7 @@ figcaption {
 }
 
 .submit-button:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -3917,7 +3917,7 @@ figcaption {
   min-height: 150px;
   min-width: 100%;
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border: 1px solid #efe2d7;
   border-radius: 28px;
   margin-bottom: 13px;
@@ -4041,7 +4041,7 @@ figcaption {
 .account-form {
   z-index: 10;
   text-align: center;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   align-items: center;
@@ -4090,7 +4090,7 @@ figcaption {
 }
 
 .button-login:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
@@ -4122,7 +4122,7 @@ figcaption {
 
 .block-color {
   text-align: center;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border: 1px solid #efe2d7;
   border-radius: 12px;
   flex-direction: column;
@@ -4137,7 +4137,7 @@ figcaption {
 }
 
 .block-color.white {
-  background-color:#5C548C;
+  background-color:#5A4D85;
 }
 
 .block-color.accent-background {
@@ -4176,7 +4176,7 @@ figcaption {
 }
 
 .text-color.white {
-  color:#5C548C;
+  color:#5A4D85;
 }
 
 .buttons {
@@ -4239,7 +4239,7 @@ figcaption {
 }
 
 .icon-licensing-bg {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -4305,13 +4305,13 @@ figcaption {
 }
 
 .body {
-  background-color:#5C548C;
+  background-color:#5A4D85;
 }
 
 .crypto-marquee {
   width: 100%;
   height: 40px;
-  color:#5C548C;
+  color:#5A4D85;
   background-color: rgba(0, 0, 0, 0);
   justify-content: space-between;
   align-items: center;
@@ -4358,7 +4358,7 @@ figcaption {
 }
 
 .icon-sequence-bg-2 {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -4376,7 +4376,7 @@ figcaption {
 }
 
 .button-2 {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
   border-radius: 50px;
   margin-top: 37px;
@@ -4390,7 +4390,7 @@ figcaption {
 }
 
 .button-2:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -4427,7 +4427,7 @@ figcaption {
 }
 
 .number-sequence-2 {
-  color:#5C548C;
+  color:#5A4D85;
   font-size: 16px;
   font-weight: 500;
   line-height: 100%;
@@ -4510,7 +4510,7 @@ figcaption {
 }
 
 .button-secondary {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: rgba(0, 0, 0, 0);
   padding: 0;
   font-size: 1.45vw;
@@ -4570,7 +4570,7 @@ figcaption {
 }
 
 .company-info-2-copy {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 24px;
   flex-direction: column;
   justify-content: center;
@@ -4689,7 +4689,7 @@ figcaption {
 }
 
 .button-copy {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
   border-radius: 50px;
   padding: 18px 40px;
@@ -4701,7 +4701,7 @@ figcaption {
 }
 
 .button-copy:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -4714,7 +4714,7 @@ figcaption {
 }
 
 .button-copy.outline:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
@@ -4728,17 +4728,17 @@ figcaption {
 
 .button-copy.white {
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   transition: color 0.2s, background-color 0.2s;
 }
 
 .button-copy.white:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
 .button-copy12 {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
   border-radius: 50px;
   margin-bottom: 47px;
@@ -4752,7 +4752,7 @@ figcaption {
 }
 
 .button-copy12:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -4765,7 +4765,7 @@ figcaption {
 }
 
 .button-copy12.outline:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fdf8f4;
 }
 
@@ -4779,12 +4779,12 @@ figcaption {
 
 .button-copy12.white {
   color: #fdf8f4;
-  background-color:#5C548C;
+  background-color:#5A4D85;
   transition: color 0.2s, background-color 0.2s;
 }
 
 .button-copy12.white:hover {
-  color:#5C548C;
+  color:#5A4D85;
   background-color: #fff;
 }
 
@@ -4839,7 +4839,7 @@ figcaption {
 }
 
 .accordion-item-2 {
-  background-color:#5C548C;
+  background-color:#5A4D85;
   border-radius: 12px;
 }
 
@@ -5124,7 +5124,7 @@ figcaption {
   }
 
   .nav-menu {
-    background-color:#5C548C;
+    background-color:#5A4D85;
     padding-bottom: 20px;
     box-shadow: 0 25px 50px -10px rgba(100, 44, 0, 0.07);
   }
@@ -5140,7 +5140,7 @@ figcaption {
   }
 
   .menu-button.w--open {
-    color:#5C548C;
+    color:#5A4D85;
     background-color: #fff;
   }
 
